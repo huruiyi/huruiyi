@@ -1,18 +1,20 @@
-- 👋 Hi, I’m @huruiyi
-- 👀 I’m interested in programming, cooking, music..
-- 🌱 I’m currently learning programming,cooking
+## 👨‍💻 关于我
+- 专注于代码世界的**终身学习者**，用键盘敲出理想的技术方案，在编程的海洋中探索无限可能。
+- 深度动漫爱好者，从热血燃番到治愈系作品，沉浸于多元的幻想世界，汲取创作灵感。
+- 热衷游戏的“数字冒险家”，无论是策略博弈还是开放世界探索，都能在虚拟世界中找到乐趣。
+- 偏爱独处的“宅家达人”，享受在安静的角落钻研技术、追番、畅玩游戏的时光。
+
+## 🌟 未来愿景
+致力于成为一名**自由开发者**，摆脱传统工作模式的束缚，用代码实现创意与价值。希望未来能在自己热爱的领域里，自由地开发项目，创造出兼具实用性与趣味性的产品，享受灵活自主的工作与生活，持续在技术与兴趣的道路上发光发热 。 
 
 <!---
 huruiyi/huruiyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## 关于我 🤺 
-一个无名小卒，喜欢胡乱搞点小玩意。在未来的某一天，希望成为一个自由职业者，开发自己想开发的程序！
-
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
-## 正在学习 💪
+##  💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -51,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 
-## 汇总 ✨
+## ✨ 汇总 
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huruiyi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huruiyi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
